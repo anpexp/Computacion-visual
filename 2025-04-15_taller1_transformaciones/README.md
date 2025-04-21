@@ -3,7 +3,7 @@
 ![Ejemplo de transformación](transformacion.gif)
 
 ## Descripción
-Implementación de transformaciones geométricas (traslación, rotación y escala) en diferentes entornos de programación. Este repositorio contiene ejemplos en Python, Unity, Three.js y Processing.
+Implementación de transformaciones geométricas (traslación, rotación y escala) en diferentes entornos de programación. Este repositorio contiene ejemplos en Python, Three.js y Processing.
 
 ---
 
