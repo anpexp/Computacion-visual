@@ -1,0 +1,25 @@
+.ui-container {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 100;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 15px;
+  border-radius: 10px;
+  font-family: sans-serif;
+}
+.button-group button {
+  margin-right: 10px;
+  padding: 8px 12px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+.button-group button:hover {
+  background-color: #eee;
+}
+.info-box {
+  margin-top: 15px;
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+}
